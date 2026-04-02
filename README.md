@@ -134,9 +134,7 @@ compared to proprietary systems like Windows and macOS, especially in server and
 ## Author
 
 **Abhishek Choudhary**
-
 Registration No: **24BCE11056**
-
 Course: Open Source Software
 
 ---
